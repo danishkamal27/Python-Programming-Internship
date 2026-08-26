@@ -1,0 +1,5 @@
+Welcome to Week 2 of the Python Programming Internship.
+Python is a versatile and easy-to-learn programming language.
+This sample text file is used to test line, word, and character counts.
+File handling and string manipulation are essential skills for Python developers.
+Happy coding!
