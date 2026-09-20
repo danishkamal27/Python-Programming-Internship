@@ -1,0 +1,9 @@
+EmployeeID,Name,Department,Salary,Age,JoinDate
+101,Alice Johnson,Engineering,85000,30,2021-03-15
+103,Charlie Brown,Engineering,92000,35,2019-11-01
+107,George Clark,Engineering,78000,27,2022-06-30
+108,Hannah Abbott,Finance,89000,38,2018-09-05
+109,Ian Malcolm,Finance,94000,41,2017-04-18
+112,Laura Croft,Engineering,96000,29,2021-07-22
+114,Nina Williams,Finance,82000,33,2019-01-15
+115,Oscar Martinez,Finance,76000,36,2020-08-25

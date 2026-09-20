@@ -1,0 +1,16 @@
+EmployeeID,Name,Department,Salary,Age,JoinDate
+101,Alice Johnson,Engineering,85000,30,2021-03-15
+102,Bob Smith,Sales,62000,28,2022-01-10
+103,Charlie Brown,Engineering,92000,35,2019-11-01
+104,Diana Prince,Human Resources,58000,32,2020-05-20
+105,Evan Wright,Sales,71000,29,2021-08-12
+106,Fiona Gallagher,Marketing,65000,26,2023-02-14
+107,George Clark,Engineering,78000,27,2022-06-30
+108,Hannah Abbott,Finance,89000,38,2018-09-05
+109,Ian Malcolm,Finance,94000,41,2017-04-18
+110,Julia Roberts,Human Resources,61000,31,2021-10-11
+111,Kevin Bacon,Marketing,73000,34,2020-12-01
+112,Laura Croft,Engineering,96000,29,2021-07-22
+113,Michael Scott,Sales,68000,45,2015-03-01
+114,Nina Williams,Finance,82000,33,2019-01-15
+115,Oscar Martinez,Finance,76000,36,2020-08-25
